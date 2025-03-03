@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Imran Ullah  
- **Machine Learning Engineer | NLP & AI Researcher**  
+**Machine Learning Engineer | NLP & AI Researcher**  
 
-I specialize in **fine-tuning large language models (LLMs)**, **multi-GPU training**, and **building AI-powered applications**. My expertise spans **NLP, speech AI, vision AI, and agent-based systems**, utilizing cutting-edge techniques like **RLHF, DPO, KTO, GRPO, and model distillation**.  
+I specialize in **fine-tuning large language models (LLMs)**, **multi-GPU training**, and developing **AI-driven applications**. My expertise spans **NLP, speech AI, vision AI, and agent-based systems**, leveraging advanced techniques like **RLHF, DPO, KTO, GRPO, and model distillation**.  
+
+I deploy and optimize **LLMs** using **Hugging Face TGI, vLLM, and sglang**, ensuring efficient, scalable **AI solutions** for real-world applications.  
 
 
 ## 💡 About Me  
