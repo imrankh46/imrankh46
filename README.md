@@ -62,7 +62,10 @@ I deploy and optimize **LLMs** using **Hugging Face TGI, vLLM, and sglang**, ens
 
 ## Publications
 - [Pashto poetry generation: deep learning with pre-trained transformers for low-resource languages](https://peerj.com/articles/cs-2163/)
-- [When AI Meets Medicine: A Comprehensive Survey of Deep Learning, LLMs, and Multimodal Fusions in Medication Recommendation (submition id d7b8217e-4685-4c1f-a4b2-4255dc197617)]
+- [Title: When AI Meets Medicine: A Comprehensive Survey of Deep Learning, LLMs, and Multimodal Fusions in Medication Recommendation
+Corresponding Author: Dr Zafar Ali
+Co-Authors: Sumaira Hussain, Ph.D; Imran Ullah, Masters; Irfan Ullah, Ph.D; Inam Ullah, Ph.D; Pavlos Kefalas, Ph.D
+Manuscript Number: CMPB-D-25-05288]
 
 ## 📜 Courses & Certifications  
 - **[Generative AI with Large Language Models](https://coursera.org/share/78c6ed76981a0c57b33a8a8b0129cc1b)**  
